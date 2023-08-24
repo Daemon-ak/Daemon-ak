@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daemon-ak
 - 👀 I’m interested in Network security 
-- 🌱 I’m currently learning Palo Alto Firewall 
+- 🌱 I’m a Palo Alto Networks Certified Network Security Engineer (PCNSE)
 - 💞️ I’m looking to collaborate on security/network freelance project.
 - 📫 How to reach me... abhijeetbhu100@gmail.com
 
